@@ -9,6 +9,6 @@ setup(
         'relations_psycopg2'
     ],
     install_requires=[
-        'psycopg2==2.8.6'
+        "psycopg2-binary==2.8.6"
     ]
 )
